@@ -2,3 +2,21 @@ Week,Day,Time,Emotions,Intensity
 1,Friday,1:00PM,Neutral,5
 1,Friday,2:00PM,Hungry,6
 1,Friday,3:00PM,Neutral,5
+1,Friday,4:00PM,Happy,7
+1,Friday,6:00PM,Hungry,6
+1,Friday,7:00PM,Tired,7
+1,Friday,10:00PM,Tired,9
+1,Saturday,9:00AM,Hungry,6
+1,Saturday,10:00AM,Neutral,5
+1,Saturday,11:00AM ,Neutral,6
+1,Saturday,12:00PM,Neutral,6
+1,Saturday,1:00PM,Hungry,8
+1,Saturday,3:00PM,Tired,7
+1,Saturday,4:00PM,Neutral,5
+1,Saturday,5:00PM,Tired`,7
+1,Saturday,6:00PM,Tired ,8
+1,Saturday,7:00PM,Tired,6
+1,Sunday,2:00PM,Neutral,5
+2,Monday,7:00AM,Tired,6
+2,Monday,12:00PM,Neutral,5
+2,Monday,1:00PM,Neutral,3
