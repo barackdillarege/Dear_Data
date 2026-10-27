@@ -8,6 +8,6 @@ void draw() {
   rect(100,100,100,100);
 }
 
-int AddTwoNumbers(int A, B) {
+int AddTwoNumbers(int A, int B) {
   return A + B;
 }

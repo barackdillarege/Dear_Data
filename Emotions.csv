@@ -13,7 +13,7 @@ Week,Day,Time,Emotions,Intensity
 1,Saturday,1:00PM,Hungry,8
 1,Saturday,3:00PM,Tired,7
 1,Saturday,4:00PM,Neutral,5
-1,Saturday,5:00PM,Tired`,7
+1,Saturday,5:00PM,Tired,7
 1,Saturday,6:00PM,Tired ,8
 1,Saturday,7:00PM,Tired,6
 1,Sunday,2:00PM,Neutral,5
@@ -32,3 +32,20 @@ Week,Day,Time,Emotions,Intensity
 2,Thursday,11:00AM ,Hungry,7
 2,Thursday,12:00PM,Happy,8
 2,Thursday,1:00PM,Happy,6
+2,Friday,5:00PM,Happy,6
+2,Friday,6:00PM,Neutral ,5
+3,Monday,9:00AM,Neutral ,5
+3,Monday,10:00AM,Neutral ,6
+3,Monday,11:00AM ,Neutral ,6
+3,Monday,12:00PM,Neutral ,5
+3,Monday,1:00PM,Tired ,6
+3,Monday,2:00PM,Hungry,7
+3,Monday,3:00PM,Neutral ,5
+3,Monday,5:00PM,Neutral ,5
+3,Monday,8:00PM,Hungry,6
+3,Monday,9:00PM,Tired ,8
+3,Tuesday,9:00AM,Neutral ,5
+3,Tuesday,10:00AM,Neutral ,6
+3,Tuesday,11:00AM ,Hungry,6
+3,Tuesday,12:00PM,Neutral ,5
+3,Tuesday,1:00PM,Tired ,6
