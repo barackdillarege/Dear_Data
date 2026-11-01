@@ -49,3 +49,15 @@ Week,Day,Time,Emotions,Intensity
 3,Tuesday,11:00AM ,Hungry,6
 3,Tuesday,12:00PM,Neutral ,5
 3,Tuesday,1:00PM,Tired ,6
+3,Thursday,9:00AM,Neutral ,5
+3,Thursday,11:00AM ,Hungry,7
+3,Thursday,12:00PM,Sad,7
+3,Thursday,2:00PM,Sad,6
+3,Thursday,3:00PM,Neutral ,5
+3,Saturday,11:00AM ,Neutral ,5
+3,Saturday,12:00PM,Happy,6
+3,Saturday,1:00PM,Happy,5
+3,Saturday,6:00PM,Neutral ,7
+3,Saturday,7:00PM,Hungry,6
+3,Saturday,8:00PM,Tired ,6
+3,Saturday,11:00PM,Tired ,9
